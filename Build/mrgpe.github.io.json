@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "NEA SKILLS BUILDING 2025",
+"dataUrl": "mrgpe.github.io.data.unityweb",
+"wasmCodeUrl": "mrgpe.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "mrgpe.github.io.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
